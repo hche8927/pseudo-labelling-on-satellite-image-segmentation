@@ -13,9 +13,9 @@ This project tests the effect of pseudo labelling on semantic segmentation deep 
 
 
 ## Run code for yourself
-5. Set data root directory in each jupyter notebook to the specified location.
-6. Open file `src/data_preprocessing.ipynb` and execute all code blocks to prepare/generate data for training. (Some code may need to be un-commented.)
-7. Run desired notebooks. (See file structure below.)
+1. Set data root directory in each jupyter notebook to the specified location.
+2. Open file `src/data_preprocessing.ipynb` and execute all code blocks to prepare/generate data for training. (Some code may need to be un-commented.)
+3. Run desired notebooks. (See file structure below.)
 
 
 ## File Structure Explanation
