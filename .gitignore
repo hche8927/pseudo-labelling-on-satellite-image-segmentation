@@ -1,0 +1,5 @@
+dstl-satellite-imagery-feature-detection/
+.ipynb_checkpoints
+__pycache__
+*.h5
+~$*
