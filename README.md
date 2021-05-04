@@ -36,8 +36,8 @@ This project tests the effect of pseudo labelling on semantic segmentation deep 
 │  └─saved_weights
 │
 ├─results_visualization
-│  │  visualise_results.ipynb
-│  └─experiment_results
+   │  visualise_results.ipynb
+   └─experiment_results
 ```
 
 ## Experement Results Overview
