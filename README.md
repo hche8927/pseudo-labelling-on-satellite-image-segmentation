@@ -8,8 +8,8 @@ This project tests the effect of pseudo labelling on semantic segmentation deep 
 ## Prerequisite
 1. Craete a new python venv.
 2. Install packages from requirement.txt
-3. All experiments are done in jupyter notebooks.
-4. Go to DSTL Kaggle challenge page and download the data.
+3. Go to DSTL Kaggle challenge page and download the data.
+*All experiments are done in jupyter notebooks.*
 
 
 ## Run code for yourself
