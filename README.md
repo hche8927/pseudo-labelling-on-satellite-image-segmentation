@@ -1,4 +1,4 @@
-# Pseudo Labelling on Satellite Image Segmentation
+# Pseudo Labeling on Satellite Image Segmentation
 
 
 ## Introduction
